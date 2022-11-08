@@ -2,5 +2,5 @@ toma ima x pobjeda y poraza
 andra ima x pobjeda y poraza
 
 x 0 x
-. 0 .
+x 0 .
 . . .
