@@ -1,6 +1,6 @@
 toma ima x pobjeda y poraza
 andra ima x pobjeda y poraza
 
-. . .
+x . .
 . . .
 . . .
